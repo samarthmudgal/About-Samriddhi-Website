@@ -1,0 +1,41 @@
+#moreinfo
+{
+    width: 20%;
+    height: 20px; ;
+    background-color: cyan;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 180px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+html
+{
+background-color:lightsalmon ;
+}
+h4
+{
+    
+    text-align: center;
+    text-shadow: 0ch;
+    
+}
+body
+{
+    background-color: mediumpurple;
+
+}
+head
+{
+background-color: aqua;
+}
